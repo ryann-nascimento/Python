@@ -11,3 +11,11 @@ quantity = 3
 total = str(server_cost * quantity)
 
 print("The total cost for the servers is: $" + total)
+
+
+# Other Exercise
+
+number = 15
+result = number % 2
+
+print(result)
